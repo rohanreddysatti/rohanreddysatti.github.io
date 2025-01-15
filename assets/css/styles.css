@@ -103,6 +103,10 @@ img {
   margin-left: var(--mb-2);
   margin-right: var(--mb-2);
 }
+.bd-gri {
+  margin-left: var(--mb-2);
+  margin-right: var(--mb-2);
+}
 
 .l-header {
   width: 100%;
